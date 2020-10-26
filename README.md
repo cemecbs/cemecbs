@@ -1,5 +1,9 @@
 ### Oh Hai! 👋
 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-swag.svg)](http://forthebadge.com)
+
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+
 <!--
 **cemecbs/cemecbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
